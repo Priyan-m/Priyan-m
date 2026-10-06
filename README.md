@@ -1,32 +1,36 @@
-### Hi there, I'm Priyan 👋
+# Hi, I'm Priyan 👋
 
-## 🧪 QA Automation Engineer | Manual Test Engineer
+QA Engineer specializing in manual, API, and automated testing with **Playwright (TypeScript)**. Currently testing Procter & Gamble's CRS 2.0 enterprise consumer-data portal as a freelancer, covering functional, regression, smoke and API testing in an Agile team.
 
-I’m a QA Engineer with hands-on experience in manual and API testing, currently building my automation skills in Java, Selenium, and Playwright.
-
-- 🔭 **Currently working on:** Manual & API testing for an enterprise consumer data platform (CRS 2.0) at Procter & Gamble
-- 🌱 **Currently learning:** Playwright (XPath, locators, assertions, handling dropdowns), Selenium WebDriver with Maven
-- 👯 **Looking to collaborate on:** Test automation frameworks (Selenium/Playwright) and API testing projects
-- 🤔 **Looking for help with:** Advancing from manual QA to a full automation engineering role
-- 💬 **Ask me about:** Manual testing (Functional, Regression, Smoke, UAT), API testing with Postman, Defect lifecycle & Jira
-- 📫 **How to reach me:** priyan082002@gmail.com | [LinkedIn](https://www.linkedin.com/in/priyanm-2a6246269)
-- ⚡ **Fun fact:** I moved from managing production operations at a TATA enterprise to testing enterprise software — Kaizen mindset now applied to bug hunting!
+Before software, I spent two years as Assistant Manager, Production & Operations at Voltas (TATA), which shaped a root-cause mindset I now bring to defect analysis and test design. B.E. Mechanical Engineering, SSN College of Engineering, Chennai.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🔍 What I do
 
-**Languages & Automation:** Java (OOP), Selenium WebDriver, Playwright (XPath, Locators, Assertions, Dropdowns), Maven  
-**Testing Types:** Functional, Regression, Smoke, UI, API, UAT, Sanity  
-**API Testing:** Postman  
-**Tools:** Jira, MySQL, Git, GitHub  
-**Methodologies:** Agile/Scrum, STLC, SDLC, Sprint-based Testing
+- **Functional & API testing** — designing test cases covering positive, negative and edge-case scenarios; validating REST APIs in Postman for payload and status code correctness
+- **Test & defect management** — Zephyr for test planning, execution tracking and bulk uploads; Jira for defect lifecycle management with root cause analysis
+- **Automation** — Playwright with TypeScript, Page Object Model, cross-browser testing (Chromium, Firefox, WebKit), CI via GitHub Actions
 
----
+### 🧩 Featured projects
 
-### 📌 Featured Projects
-- **Banking Application (Manual & API Testing):** 30+ test cases across login, deposit, withdrawal & transaction flows; API validation via Postman.
-- **OrangeHRM (Manual + Automation, Self-Practice):** Smoke/regression/functional testing across employee, leave, and payroll modules; automated core UI flows with Selenium WebDriver + Maven.
+- **[Toolshop E2E Automation](https://github.com/Priyan-m)** — 10 UI tests for the Practice Software Testing "Toolshop" demo store using Page Object Model, covering login, search, cart and checkout. Runs across Chromium, Firefox and WebKit via GitHub Actions, with HTML reports and failure traces.
+- **Banking Application: Manual & API Testing** — 30+ test cases across login, deposit, withdrawal and transfer flows; validated transaction APIs in Postman and tracked defects through the full Jira lifecycle.
+- **OrangeHRM: End-to-End Manual Testing** — Smoke, regression and functional testing across employee, leave and payroll modules, including role-based access and form validation checks.
+
+### 🛠️ Tools & Technologies
+
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat-square&logo=jira)
+![GitHub Actions](<https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions>)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### 📫 Reach me
+
+- LinkedIn: [priyanm-2a6246269](https://linkedin.com/in/priyanm-2a6246269)
+- Email: priyan082002@gmail.com
 
 ---
 
