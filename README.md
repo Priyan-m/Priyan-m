@@ -50,5 +50,3 @@ Java for automation interviews (strings, arrays, collections) · SQL for databas
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Priyan-m&color=blue)
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Priyan-m&color=blue)
